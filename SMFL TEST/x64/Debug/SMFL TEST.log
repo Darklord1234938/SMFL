@@ -1,0 +1,180 @@
+﻿  SMFL TEST.cpp
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\InputS.h(4,14): warning C4091: 'static ': ignored on left of 'Input' when no variable is declared
+  (compiling source file 'SMFL%20TEST.cpp')
+  
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(22,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(29,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(80,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(180,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(180,51): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(180,51): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(180,51): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(180,51): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(180,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(180,35): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(180,35): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(180,35): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(180,35): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,84): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,84): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,84): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,84): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,84): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,84): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,84): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,84): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,60): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,60): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,60): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,60): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,60): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,60): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,60): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(218,60): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,73): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,73): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,73): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,73): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,73): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,73): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,73): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,73): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,49): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,49): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,49): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,49): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,49): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,49): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,49): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(220,49): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,96): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,96): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,96): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,96): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,96): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,96): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,96): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,96): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,96): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,72): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,72): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,72): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,72): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,72): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,72): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,72): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(310,72): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,89): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,89): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,89): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,89): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,89): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,89): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,89): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,89): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,89): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,65): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,65): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,65): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,65): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,65): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,65): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,65): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(331,65): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,95): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,95): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,95): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,95): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,95): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,95): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,95): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,95): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,67): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,67): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,67): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,67): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,67): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,67): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,67): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(332,67): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,97): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,97): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,97): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,97): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,97): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,97): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,97): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,97): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,69): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,69): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,69): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,69): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,69): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,69): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,69): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(333,69): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,94): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,94): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,94): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,94): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,94): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,94): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,94): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,94): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,66): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,66): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,66): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,66): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,66): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,66): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,66): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(334,66): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,89): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,89): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,89): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,89): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,89): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,89): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,89): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,89): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,89): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,65): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,65): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,65): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,65): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,65): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,65): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,65): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(392,65): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,94): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,94): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,94): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,94): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,94): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,94): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,94): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,94): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,66): warning C4244:         with
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,66): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,66): warning C4244:             T=unsigned int
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,66): warning C4244:         ]
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,66): warning C4244:         and
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,66): warning C4244:         [
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,66): warning C4244:             T=float
+C:\Users\darkl\source\repos\SMFL TEST\SMFL TEST\SMFL TEST.cpp(393,66): warning C4244:         ]
+  SMFL TEST.vcxproj -> C:\Users\darkl\source\repos\SMFL TEST\x64\Debug\SMFL TEST.exe
